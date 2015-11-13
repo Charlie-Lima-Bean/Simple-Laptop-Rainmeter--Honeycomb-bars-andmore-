@@ -46,5 +46,5 @@ solidcolor = 255,200,200, 0
 
 
 [Variables]
-Quoteu=dOnt  drIh Tuh rAn mIh SotiN stwr
-Quoted=ohwS ahohAh Tuh lEvs upon Wr grAvs
+Quoteu=Tuh lIt Tat revEls
+Quoted=iz Tuh gler Tat blInds
