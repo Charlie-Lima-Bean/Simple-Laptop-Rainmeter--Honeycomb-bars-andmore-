@@ -46,5 +46,5 @@ solidcolor = 255,200,200, 0
 
 
 [Variables]
-Quoteu=Tuh lIt Tat revEls
-Quoted=iz Tuh gler Tat blInds
+Quoteu=Eoh Ar Tuh vOIs in Tuh swN
+Quoted=Its Eorz ohen Eoh siN alwN
