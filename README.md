@@ -9,3 +9,5 @@ Teensy Release - http://rainmeterhub.com/skins/teensy/
 Honeycomb - http://apiium.deviantart.com/art/Honeycomb-467211707
 
 Tenno font (fancy quote font) Release - https://www.reddit.com/r/Warframe/comments/2lbc3q/orokintenno_font_v2/
+
+Qres (used in resolution reset meter) - https://sourceforge.net/projects/qres/
