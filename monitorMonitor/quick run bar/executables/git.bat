@@ -1,0 +1,1 @@
+git-msref.appref-ms
