@@ -1,0 +1,4 @@
+Honeycomb\
+monitorMonitor\debug
+monitorMonitor\reticlektoggle
+monitorMonitor\refresh
