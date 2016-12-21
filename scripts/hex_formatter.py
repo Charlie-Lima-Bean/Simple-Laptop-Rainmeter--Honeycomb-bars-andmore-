@@ -8,8 +8,8 @@ def buckets(x, y):
 
 	dX = 90
 	dY = 80
-	x_offset = 100
-	y_offset = 65
+	x_offset = 85
+	y_offset = 60
 
 	ret = [0,0]
 	x -= x_offset

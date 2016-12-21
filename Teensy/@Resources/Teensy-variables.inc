@@ -1,9 +1,12 @@
 [Variables]
 ;total width of skin is #ZeroLineWidth# + #Width#
 ; Width=260
-width = 263
-widths =149
-BarHeight=16
+;width = 263
+;widths =149
+;BarHeight=16
+widths =228
+width = 364
+BarHeight=26
 ZeroLineWidth=1
 FullLineWidth=1
 BarColor=80,200,255,200
