@@ -7,3 +7,4 @@
 /monitorMonitor/quick run bar/executables/
 monitorMonitor/@Resources/DualQuotes.txt
 monitorMonitor/HWTracker/Values.txt
+scripts/*.ini
