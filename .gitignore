@@ -5,7 +5,7 @@
 /Purity/
 /Text input launcher/
 /monitorMonitor/quick run bar/executables/
-monitorMonitor/@Resources/DualQuotes.txt
-monitorMonitor/@Resources/*.docx
-monitorMonitor/HWTracker/Values.txt
-scripts/*.ini
+/monitorMonitor/@Resources/DualQuotes.txt
+/monitorMonitor/@Resources/*.docx
+/monitorMonitor/HWTracker/Values.txt
+/scripts/*.ini
